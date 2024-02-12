@@ -5,4 +5,7 @@
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
 
+#logo {
+    text-align: center; /* Center the content horizontally */
+}
 
