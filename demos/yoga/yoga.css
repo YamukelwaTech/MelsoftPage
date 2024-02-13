@@ -5,7 +5,7 @@
 :root {
 	--cnvs-themecolor: #1F6E8C;
 	--cnvs-themecolor-rgb: 46, 138, 153;
-	--cnvs-body-font: 'Roboto', sans-serif;
+	/* --cnvs-body-font: 'Roboto', sans-serif; */
 	--cnvs-primary-font: 'Sansita', sans-serif;
 	--cnvs-header-height: 70px;
 	
