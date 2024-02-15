@@ -250,7 +250,7 @@
 	right: 20px;
 	width: 200px;
 	height: 200px;
-	background: #FFF url("images/yoga-icons/color/svg/asana_lotus_col.svg") no-repeat 100% 100% / 100%;
+	/* background: #FFF url("images/yoga-icons/color/svg/asana_lotus_col.svg") no-repeat 100% 100% / 100%; */
 	z-index: 0;
 }
 
@@ -330,7 +330,7 @@
 	left: -80px;
 	width: 500px;
 	height: 500px;
-	background: url("images/yoga-icons/color/svg/asana_triangle_col.svg") no-repeat;
+	/* background: url("images/yoga-icons/color/svg/asana_triangle_col.svg") no-repeat; */
 	background-size: 100%;
 	border-radius: 50%;
 	opacity: .06;
@@ -407,7 +407,7 @@
 	top: 0;
 	width: 700px;
 	height: 100%;
-	background-image: url('images/footer.svg');
+	/* background-image: url('images/navLogo.jpeg'); */
 	background-repeat: no-repeat;
 	background-position: 100% 90%;
 	background-size: 700px auto;
